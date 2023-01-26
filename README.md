@@ -1,4 +1,4 @@
-# Steam-Deck-LanguageFix
+# SteamDeck LanguageFix
 Collection of repair scripts for various languages of SteamDeck.
 
 | language | region | Script URL |
